@@ -1,0 +1,19 @@
+{
+  "name": "cursobasicocypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "auto"
+  ],
+  "author": "susana moreira",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^8.1.0"
+  }
+}
